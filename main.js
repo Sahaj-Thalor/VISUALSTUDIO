@@ -1,0 +1,16 @@
+var firstname="Sahaj ";
+var lastname="Thalor";
+var fullname = firstname.concat(lastname);
+console.log(firstname);
+console.log(lastname);
+console.log(fullname);
+var a=9;
+var b=5;
+var add= a+b;
+console.log(add);
+var sub= a-b;
+console.log(sub);
+var multi= a*b;
+console.log(multi);
+var div=a/b;
+console.log(div);
